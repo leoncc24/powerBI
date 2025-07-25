@@ -57,7 +57,7 @@ Power BI dashboard analyzing **3 months of hotel booking performance** across mu
    
 
 ## 📝 Documentation
-- (docs/meta_data_hospitality.md) - Data Dictionary Field definitions and sources
-- (docs/metrics list.md) - Metric Formulas Detailed KPI calculations
-- (docs/power_query_doc.md) - Data Loading and Power Query Documentation
+- (docs/meta_data_hospitality.txt) - Data Dictionary Field definitions and sources
+- (docs/metrics list.xlsx) - Metric Formulas Detailed KPI calculations
+- (docs/power_query_doc.txt) - Data Loading and Power Query Documentation
 
