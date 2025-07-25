@@ -11,15 +11,6 @@ Power BI dashboard analyzing **3 months of hotel booking performance** across mu
 - ADR (Average Daily Rate)
 - Realization %
 
-## 📂 Repository Structure
-hotel-analytics/
-├── data/ # Raw data files
-│ ├── bookings_2024_Q1.csv # Primary dataset
-│ └── property_mapping.xlsx# Property metadata
-├── hotel-performance.pbix # Main Power BI file
-└── docs/ # Documentation
-├── data-dictionary.md # Field definitions
-└── metric-guide.md # KPI calculations
 
 ## 🛠️ Setup Instructions
 
@@ -66,6 +57,7 @@ hotel-analytics/
    
 
 ## 📝 Documentation
-- [Data Dictionary](docs/data-dictionary.md) - Field definitions and sources
-- [Metric Formulas](docs/metric-guide.md) - Detailed KPI calculations
+- (docs/meta_data_hospitality.md) - Data Dictionary Field definitions and sources
+- (docs/metrics list.md) - Metric Formulas Detailed KPI calculations
+- (docs/power_query_doc.md) - Data Loading and Power Query Documentation
 
